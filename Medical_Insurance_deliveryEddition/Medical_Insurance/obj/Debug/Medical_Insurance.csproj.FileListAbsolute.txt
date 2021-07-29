@@ -1,0 +1,163 @@
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.exe
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.exe.config
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.pdb
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\bin\Debug\Oracle.DataAccess.dll
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csprojAssemblyReference.cache
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.MainMenu.resources
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.InsertPerson.resources
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.Properties.Resources.resources
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.GenerateResource.cache
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CoreCompileInputs.cache
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CopyComplete
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.exe
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.pdb
+E:\ProjectsToDeliver\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.SearchPolicy.resources
+C:\Users\yeims\Downloads\Medical_Insurance\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.exe.config
+C:\Users\yeims\Downloads\Medical_Insurance\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.exe
+C:\Users\yeims\Downloads\Medical_Insurance\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.pdb
+C:\Users\yeims\Downloads\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csprojAssemblyReference.cache
+C:\Users\yeims\Downloads\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.MainMenu.resources
+C:\Users\yeims\Downloads\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.InsertPerson.resources
+C:\Users\yeims\Downloads\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.Properties.Resources.resources
+C:\Users\yeims\Downloads\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.SearchPolicy.resources
+C:\Users\yeims\Downloads\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.GenerateResource.cache
+C:\Users\yeims\Downloads\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CoreCompileInputs.cache
+C:\Users\yeims\Downloads\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.exe
+C:\Users\yeims\Downloads\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.pdb
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.exe.config
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.exe
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.pdb
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\bin\Debug\Oracle.DataAccess.dll
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csprojAssemblyReference.cache
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.MainMenu.resources
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.InsertPerson.resources
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.ManageDependent.resources
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.Properties.Resources.resources
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.SearchPolicy.resources
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.GenerateResource.cache
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CoreCompileInputs.cache
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CopyComplete
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.exe
+E:\Medical_Insurance\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.pdb
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.exe.config
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.exe
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.pdb
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\Oracle.DataAccess.dll
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csprojAssemblyReference.cache
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.MainMenu.resources
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.InsertPerson.resources
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.ManageDependent.resources
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.Properties.Resources.resources
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.SearchPolicy.resources
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.GenerateResource.cache
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CoreCompileInputs.cache
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CopyComplete
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.exe
+E:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.pdb
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.exe.config
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.exe
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.pdb
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\AxShockwaveFlashObjects.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.Shared.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\ShockwaveFlashObjects.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\stdole.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csprojAssemblyReference.cache
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.MainMenu.resources
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.InsertPerson.resources
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.ManageDependent.resources
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.PersonReport.resources
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.Properties.Resources.resources
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.SearchPolicy.resources
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.GenerateResource.cache
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CoreCompileInputs.cache
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CopyComplete
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.exe
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.pdb
+E:\Work\FCIS\2ndTerm\Database\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.DepReport.resources
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.exe.config
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.exe
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\Medical_Insurance.pdb
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\AxShockwaveFlashObjects.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.Shared.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\Oracle.DataAccess.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\ShockwaveFlashObjects.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\stdole.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csprojAssemblyReference.cache
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.DepReport.resources
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.MainMenu.resources
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.InsertPerson.resources
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.ManageDependent.resources
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.PersonReport.resources
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.Properties.Resources.resources
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.SearchPolicy.resources
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.GenerateResource.cache
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CoreCompileInputs.cache
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CopyComplete
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.exe
+F:\Medical_InsuranceFinal\Medical_Insurance\Medical_Insurance\obj\Debug\Medical_Insurance.pdb
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\Medical_Insurance.exe.config
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\Medical_Insurance.exe
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\Medical_Insurance.pdb
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\AxShockwaveFlashObjects.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportSource.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.Shared.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.Windows.Forms.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\Oracle.DataAccess.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\ShockwaveFlashObjects.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\stdole.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.csprojAssemblyReference.cache
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.DepReport.resources
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.MainMenu.resources
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.InsertPerson.resources
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.ManageDependent.resources
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.PersonReport.resources
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.Properties.Resources.resources
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.SearchPolicy.resources
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.GenerateResource.cache
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CoreCompileInputs.cache
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.csproj.CopyComplete
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.exe
+F:\DataBase Project\Medical_Insurance_deliveryEddition\Medical_Insurance\obj\Debug\Medical_Insurance.pdb
